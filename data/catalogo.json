@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sistema de Gestión de Biblioteca",
+    "area": "Académico",
+    "subarea": "Proyectos",
+    "texto": "Proyecto final de Programación III: préstamos, catálogo y control de libros.",
+    "portada": "img/catalogo-01.svg",
+    "descripcionHtml": "<p><strong>Sistema de Gestión de Biblioteca</strong></p><p>Proyecto final de Programación III: préstamos, catálogo y control de libros.</p><ul><li>Programación orientada a objetos</li><li>Informe final y entrega en zip</li><li>Universidad Privada Domingo Savio</li></ul>"
+  },
+  {
+    "id": 2,
+    "titulo": "VC Boutique La Paz",
+    "area": "Académico",
+    "subarea": "Proyectos",
+    "texto": "Tienda boutique de Diseño Web basada en una plantilla y las guías de clase.",
+    "portada": "img/catalogo-02.svg",
+    "descripcionHtml": "<p><strong>VC Boutique La Paz</strong></p><p>Tienda boutique de Diseño Web basada en una plantilla y las guías de clase.</p><ul><li>Catálogo de productos</li><li>Diseño responsivo</li><li>Plantilla Whataform RAW</li></ul>"
+  },
+  {
+    "id": 3,
+    "titulo": "DeporZone La Paz",
+    "area": "Académico",
+    "subarea": "Proyectos",
+    "texto": "Reservas de canchas de Futsal y Wally como PWA con modo offline.",
+    "portada": "img/catalogo-03.svg",
+    "descripcionHtml": "<p><strong>DeporZone La Paz</strong></p><p>Reservas de canchas de Futsal y Wally como PWA con modo offline.</p><ul><li>16 canchas con horarios</li><li>Calculador de tarifa y modal con temporizador</li><li>Service Worker y manifest</li></ul>"
+  },
+  {
+    "id": 4,
+    "titulo": "Perfil HUD PWA",
+    "area": "Académico",
+    "subarea": "Proyectos",
+    "texto": "Mi perfil personal como PWA estilo HUD de videojuego.",
+    "portada": "img/catalogo-04.svg",
+    "descripcionHtml": "<p><strong>Perfil HUD PWA</strong></p><p>Mi perfil personal como PWA estilo HUD de videojuego.</p><ul><li>Instalable en el celular</li><li>Funciona sin internet</li><li>Contacto con vista previa</li></ul>"
+  },
+  {
+    "id": 5,
+    "titulo": "Diseño Web II",
+    "area": "Académico",
+    "subarea": "Materias",
+    "texto": "Materia SIS-0141: DOM, jQuery, PWA, rendimiento y seguridad frontend.",
+    "portada": "img/catalogo-05.svg",
+    "descripcionHtml": "<p><strong>Diseño Web II</strong></p><p>Materia SIS-0141: DOM, jQuery, PWA, rendimiento y seguridad frontend.</p><ul><li>BEM y especificidad CSS</li><li>Core Web Vitals</li><li>Sanitización con DOMPurify</li></ul>"
+  },
+  {
+    "id": 6,
+    "titulo": "Programación III",
+    "area": "Académico",
+    "subarea": "Materias",
+    "texto": "Materia de POO aplicada a un sistema completo.",
+    "portada": "img/catalogo-06.svg",
+    "descripcionHtml": "<p><strong>Programación III</strong></p><p>Materia de POO aplicada a un sistema completo.</p><ul><li>Clases y objetos</li><li>Diseño de módulos</li><li>Informe técnico</li></ul>"
+  },
+  {
+    "id": 7,
+    "titulo": "Fútbol",
+    "area": "Deporte",
+    "subarea": "Entrenamiento",
+    "texto": "Mi deporte favorito: partidos y práctica entre clases y trabajo.",
+    "portada": "img/catalogo-07.svg",
+    "descripcionHtml": "<p><strong>Fútbol</strong></p><p>Mi deporte favorito: partidos y práctica entre clases y trabajo.</p><ul><li>Partidos con amigos</li><li>Trabajo en equipo</li><li>Resistencia</li></ul>"
+  },
+  {
+    "id": 8,
+    "titulo": "Gym",
+    "area": "Deporte",
+    "subarea": "Entrenamiento",
+    "texto": "Rutinas de gimnasio para mantener la energía todo el día.",
+    "portada": "img/catalogo-08.svg",
+    "descripcionHtml": "<p><strong>Gym</strong></p><p>Rutinas de gimnasio para mantener la energía todo el día.</p><ul><li>Constancia</li><li>Fuerza y cardio</li><li>Música para entrenar</li></ul>"
+  },
+  {
+    "id": 9,
+    "titulo": "Caminatas",
+    "area": "Deporte",
+    "subarea": "Aire libre",
+    "texto": "Caminar para despejar la mente en La Paz.",
+    "portada": "img/catalogo-09.svg",
+    "descripcionHtml": "<p><strong>Caminatas</strong></p><p>Caminar para despejar la mente en La Paz.</p><ul><li>Calles y miradores</li><li>Tiempo para pensar</li><li>Ejercicio suave</li></ul>"
+  },
+  {
+    "id": 10,
+    "titulo": "Free Fire",
+    "area": "Videojuegos",
+    "subarea": "Móvil",
+    "texto": "Batalla real móvil: sobrevivir hasta el final.",
+    "portada": "img/catalogo-10.svg",
+    "descripcionHtml": "<p><strong>Free Fire</strong></p><p>Batalla real móvil: sobrevivir hasta el final.</p><ul><li>Partidas rápidas</li><li>Trabajo en escuadrón</li><li>Juego desde el celular</li></ul>"
+  },
+  {
+    "id": 11,
+    "titulo": "Mobile Legends",
+    "area": "Videojuegos",
+    "subarea": "Móvil",
+    "texto": "MOBA 5 contra 5 para jugar en equipo desde el celular.",
+    "portada": "img/catalogo-11.svg",
+    "descripcionHtml": "<p><strong>Mobile Legends</strong></p><p>MOBA 5 contra 5 para jugar en equipo desde el celular.</p><ul><li>Roles y estrategia</li><li>Partidas cooperativas</li><li>Comunicación en equipo</li></ul>"
+  },
+  {
+    "id": 12,
+    "titulo": "Minecraft",
+    "area": "Videojuegos",
+    "subarea": "Sandbox",
+    "texto": "Construir, explorar y sobrevivir en mundos infinitos.",
+    "portada": "img/catalogo-12.svg",
+    "descripcionHtml": "<p><strong>Minecraft</strong></p><p>Construir, explorar y sobrevivir en mundos infinitos.</p><ul><li>Creatividad</li><li>Supervivencia</li><li>Mundos compartidos</li></ul>"
+  },
+  {
+    "id": 13,
+    "titulo": "Fuerza Régida",
+    "area": "Música",
+    "subarea": "Corridos",
+    "texto": "Mis corridos de todos los días.",
+    "portada": "img/catalogo-13.svg",
+    "descripcionHtml": "<p><strong>Fuerza Régida</strong></p><p>Mis corridos de todos los días.</p><ul><li>Para el camino</li><li>Letras que cuentan historias</li><li>Escuchar con amigos</li></ul>"
+  },
+  {
+    "id": 14,
+    "titulo": "Tito Double P",
+    "area": "Música",
+    "subarea": "Corridos",
+    "texto": "Corridos para escuchar en el camino.",
+    "portada": "img/catalogo-14.svg",
+    "descripcionHtml": "<p><strong>Tito Double P</strong></p><p>Corridos para escuchar en el camino.</p><ul><li>Favoritos del trayecto</li><li>Ritmo y letra</li><li>Para después de clases</li></ul>"
+  },
+  {
+    "id": 15,
+    "titulo": "Reggaetón",
+    "area": "Música",
+    "subarea": "Reggaetón",
+    "texto": "Para entrenar en el gym y para bailar.",
+    "portada": "img/catalogo-15.svg",
+    "descripcionHtml": "<p><strong>Reggaetón</strong></p><p>Para entrenar en el gym y para bailar.</p><ul><li>Energía para entrenar</li><li>Para bailar</li><li>Listas de reproducción</li></ul>"
+  }
+]
